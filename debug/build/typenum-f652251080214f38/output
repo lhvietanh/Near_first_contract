@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/vietanh/Documents/blockchain/Near/smartcontract1/rust-counter-tutorial/target/debug/build/typenum-f652251080214f38/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/vietanh/Documents/blockchain/Near/smartcontract1/rust-counter-tutorial/target/debug/build/typenum-f652251080214f38/out/op.rs
